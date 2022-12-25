@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: L'informatique un monde finie
+    chapters: 
+      - file: chapter_num/01_un_mode_finie
+      - file: chapter_num/02_DFT
+#parts:
+#  - caption: Physique
+#    chapters: 
+#      - file: chapter_mtln/section
+#      - file: chapter_circuit/section
+#      - file: chapter_fdtd/section
+#      - file: chapter_blt/section
+
